@@ -1,0 +1,11 @@
+logs
+*.log
+*.bak
+npm-debug.log*
+node_modules/
+gh-pages/
+old/
+dist
+.DS_Store
+.editorconfig
+notes.txt
